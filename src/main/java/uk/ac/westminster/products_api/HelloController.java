@@ -19,7 +19,4 @@ public class HelloController {
     public String status(){
         return "API running -Tutorial 1";
     }
-
-
-
 }
